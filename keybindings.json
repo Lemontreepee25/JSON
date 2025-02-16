@@ -1,0 +1,86 @@
+// 将https://github.com/redhat-mw-demos/hello-world-spring-openjdk键绑定放在此文件中以覆盖默认值
+
+[{
+    "key": "d",
+    "command": "commandId",
+    "when": "editorTextFocus"
+},{
+    "key": "r",
+    "command": "commandId",
+    "when": "editorTextFocus"
+},{
+    "key": "d",
+    "command": "commandId",
+    "when": "editorTextFocus"
+},{
+    "key": "shift+r",
+    "command": "
+    ,
+    "when": "editorTextFocus"
+},{
+    "key": "r",
+    "command": "commandId",
+    "when": "editorTextFocus"
+},{
+    "key": "n",
+    "command": "commandId",
+    "when": "editorTextFocus"
+},{
+    "key": "ctrl+space ctrl+space",
+    "command": "commandId",
+    "when": "editorTextFocus"
+}
+
+,{
+    "key": "ctrl+tab ctrl",
+    "command": "commandId",
+    "when": "editorTextFocus"
+},
+{
+    "key": "backspace backspace",
+    "command": "commandId",
+    "when": "editorTextFocus"
+},
+    "key": "r",
+    "command": "commandId",
+    "when": "editorTextFocus"
+},{
+    "key": "r",
+    "command": "https://github.com/dotnet/vscode-dotnet-runtime.git
+    
+    ",https://code.fittentech.com/_nuxt/vs40.C9xkqFF3.png
+
+    https://code.fittentech.com/_nuxt/vs40.C9xkqFF3.png
+
+
+    "when": "editorTextFocus"
+},{
+    "key": "a",
+    "command": "java.change.searchScope",
+    "when": "editorTextFocus"
+},{
+    "key": "r",
+    "command": "commandId",
+    "when": "editorTextFocus"
+},{
+    "key": "r",
+    "command": "commandId",
+    "when": "editorTextFocus"
+},{
+    "key": "r",
+    "command": "
+    ",
+    "when": "editorTextFocus"
+},{
+    "key": "r",content/copilot/about-github-copilot/subscription-plans-for-github-copilot.md
+https: //github.com/microsoft/vscode-java-pack.git
+    i
+    "command": "code-runner.run"
+    gh repo clone mxsdev/nvim-dap-vscode-js
+
+},
+{
+    "key": "ctrl+alt+n",
+    "command": "-code-runner.run"
+}
+]
