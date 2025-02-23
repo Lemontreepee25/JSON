@@ -1,4 +1,4 @@
-// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+<!DOCHTML>https://1drv.ms/u/c/b9a2dcd72fe08abd/EWeH64H1-UNLiOx4OZB8fZQB-aLzPQsp3EQLvV2usMPGHA// For format details, see https://aka.ms/dev container.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/universal
 {p://localhost:9898/Local/takeout-20241102T230054Z-0012/Takeout/Google%20Play%20Movies%20&%20TV/Notification%20Preferences.json?2320849B-25C3-44B1-9500-02263121234F
     "name": "Default Linux Universal",
@@ -28745,6 +28745,4 @@ declare module 'vscode' {
 		 */
 		export const onDidEndTaskProcess: Event<TaskProcessEndEvent>;
     }
-    /**
-	 * Enumeration of file types. The types `File` and `Directory` can also be
-	 * a symbolic links, in that case use `FileType.File | FileType.SymbolicLink` and
+    
