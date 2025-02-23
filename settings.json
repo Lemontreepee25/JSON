@@ -26,10 +26,10 @@ Context:
 ```jsonc
                 "Unity.unity-debug"
             ]
-        {
+        {https://1drv.ms/u/c/b9a2dcd72fe08abd/EayvgWNJ_NJMkDDlGTRC6sUBz1ipu3eaUrYWXlAFuxZdPg
     "CodeGPT.apiKey": "CodeGPT Plus Beta"
 }The diagnostic message 🧠 block-size: 2rem ⇔ height: 2rem 💪 appears to be related to CSS and suggests a preference for using height: 2rem instead of block-size: 2rem. However, the provided code context is a comment within a devcontainer.json file and has nothing to do with CSS styles. Therefore, I cannot apply this suggested change within the given context. It's likely this diagnostic is meant for a different file (probably a CSS or SCSS file) in your project. Please provide the correct file context if you'd like me to implement this change.
-
+https://1drv.ms/t/c/b9a2dcd72fe08abd/Ea-6VFzCzQRAkDBaEXbrx5EBRJiavLP3EvkY7JYAIAy7pg
 
 
 Message: height:2rem
@@ -28748,6 +28748,3 @@ declare module 'vscode' {
     /**
 	 * Enumeration of file types. The types `File` and `Directory` can also be
 	 * a symbolic links, in that case use `FileType.File | FileType.SymbolicLink` and
-	 * `FileType.Directory | FileType.SymbolicLink`.
-	 */
-	export e
